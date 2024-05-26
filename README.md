@@ -43,11 +43,10 @@ In conclusion, the **CharLSTM** outperforms the CharRNN in terms of language gen
 
 - [CharLSTM Generated Texts](results/charlstm_generated_texts.txt)
 
+**Seed Character: "Apple"**
+**Temperature: 0.5**
+
 ```
-*Seed Character: "Apple"
-Temperature: 0.5*
-
-
 Apple and thus fear
 As frees before them,
 And by thy ordination,
@@ -60,9 +59,9 @@ VOLUMNIA:
 Your than
 ```
 
-```
 **Temperature: 1.0**
 
+```
 Apple and thund the ladyship? what you have not
 Of their toward. O, away?
 
@@ -75,30 +74,29 @@ If you hear it out.
 First may p
 ```
 
-
-```
 **Temperature: 1.5**
 
-
+```
 Apple are and nyel togeth. oo hosence to be ob strokes the us.
 QUEEN ELIZABETH:
 Then Anthus have passieve good me be
 hons too of him: every thigh go.
 Meth
 ```
+---------
+
+**Seed Character: "University"**
+**Temperature: 0.5**
 
 ```
-**Seed Character: "University"
-Temperature: 0.5
-**
-
 University close to get thee a monster of the ocent shall be you, if you do hold
 therein show
 range almost match it in my mind
 He dreamt to the Capitol; I'll ta
 ```
-```
+
 **Temperature: 1.0**
+```
 University elor,
 I cannot now thy hellected so far my son--
 Thy life and purchase with all his thought upon 't; and they smart
@@ -106,8 +104,9 @@ To yield to him again.
 I'll wine
 ```
 
-```
+
 **Temperature: 1.5**
+```
 University of the Volsces, to
 sweet laid, I am barking
 A place and leage
@@ -115,22 +114,28 @@ Most warlick, hear I know the canon an heart men thou stiff?
 CORIOLANUS:
 Cut it soject
 ```
+-------
+**Seed Character: "Seoul"**
+**Temperature: 0.5**
 
-Seed Character: "Seoul"
-Temperature: 0.5
+```
 Seould no less to the people;
 And by thy oratory farewell was forth
 To tearing barrent cut one accuse, and less himsely not
 How thy heigh.
-
 First Stand thu
+
+```
 Temperature: 1.0
 Seould no lectus on ants he dismings; and all out off, to ruin
 Great complies nor falses from the held; and given
 an our true them, and devies death.
 
 QUEE
-Temperature: 1.5
+```
+**Temperature: 1.5**
+
+```
 Seoul true accuse ourself
 again.
 
@@ -140,23 +145,30 @@ Then shall high, am not sebjects:
 Your lady; from sore young a very he
 him one,
 But by you show t
-Seed Character: "Coffee"
-Temperature: 0.5
+```
+-----
+**Seed Character: "Coffee"**
+**Temperature: 0.5**
+```
 Coffeed to the violence dins unto the other; but, as I do?
 
 COMINIUS:
 The best unto the other wife's worthy master on him fear'd by then as eas.
 
 MENENIUS:
-Temperature: 1.0
+```
+**Temperature: 1.0**
+```
 Coffeed to the Marcius;
 I fear 'shall'd it
 Intest of death, and before it were,
 That will hear in great other, but it; and affections;
 Or love.
-
 Second Lord
-Temperature: 1.5
+```
+
+**Temperature: 1.5**
+```
 Coffeed to the violence
 Suckn hereto me
 And himself a min'd out of
@@ -164,21 +176,32 @@ ingly returns
 Of Phoein, worthing!
 What, down to this,
 Have taken of heaven furle is true
-Seed Character: "Computer"
-Temperature: 0.5
+```
+------
+
+**Seed Character: "Computer"**
+**Temperature: 0.5**
+
+```
 Computer speak, and go
 Ine eyes now thy hein,
 I must have redious supplies with spite one so many, I envy to get you for you all.
 
 CORIOLANUS:
 Saw I fear the
-Temperature: 1.0
+```
+
+
+**Temperature: 1.0**
+```
 Computer sorrorn to seek him how second Lord:
 His aught company my brother in the corse; indeed, report for my wife's in health! To him!
 
 MENENIUS:
 That Juliu
-Temperature: 1.5
+```
+**Temperature: 1.5**
+```
 Computer to o' the comfort,
 Untain Clarence,
 That Marcius is come?
@@ -188,7 +211,7 @@ thee, gaven hours
 At Pomfret, no doubt
 Which o'erments,
 And pardon blood
-
+```
 Upon examining the generated text samples from the CharLSTM model (Best Model: Epoch 19), we can observe the following:
 
 ### Report: Comparing Generated Text Samples
