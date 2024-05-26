@@ -44,9 +44,9 @@ In conclusion, the **CharLSTM** outperforms the CharRNN in terms of language gen
 - [CharLSTM Generated Texts](results/charlstm_generated_texts.txt)
 
 ```
-Seed Character: "Apple"
-Temperature: 0.5
-```
+**Seed Character: "Apple"
+Temperature: 0.5**
+
 
 Apple and thus fear
 As frees before them,
@@ -57,8 +57,12 @@ MENENENIUS:
 No, to go.
 
 VOLUMNIA:
-Your han
-Temperature: 1.0
+Your than
+```
+
+```
+**Temperature: 1.0**
+
 Apple and thund the ladyship? what you have not
 Of their toward. O, away?
 
@@ -69,37 +73,49 @@ COMINIUS:
 If you hear it out.
 
 First may p
+```
+
 
 ```
-Temperature: 1.5
-```
+**Temperature: 1.5**
+
 
 Apple are and nyel togeth. oo hosence to be ob strokes the us.
-
 QUEEN ELIZABETH:
 Then Anthus have passieve good me be
 hons too of him: every thigh go.
 Meth
-Seed Character: "University"
+```
+
+```
+**Seed Character: "University"
 Temperature: 0.5
+**
+
 University close to get thee a monster of the ocent shall be you, if you do hold
 therein show
 range almost match it in my mind
 He dreamt to the Capitol; I'll ta
-Temperature: 1.0
+```
+```
+**Temperature: 1.0**
 University elor,
 I cannot now thy hellected so far my son--
 Thy life and purchase with all his thought upon 't; and they smart
 To yield to him again.
 I'll wine
-Temperature: 1.5
+```
+
+```
+**Temperature: 1.5**
 University of the Volsces, to
 sweet laid, I am barking
 A place and leage
 Most warlick, hear I know the canon an heart men thou stiff?
-
 CORIOLANUS:
 Cut it soject
+```
+
 Seed Character: "Seoul"
 Temperature: 0.5
 Seould no less to the people;
