@@ -226,7 +226,7 @@ Which o'erments,
 And pardon blood
 ```
 
-Upon examining the generated text samples from the CharLSTM model (Best Model: Epoch 19), we can observe the following:
+Upon examining the generated text samples from the CharLSTM model (Best Model: Epoch 19), several observations can be made:
 
 - Stylistic Consistency: The generated text exhibits stylistic consistency with the training data, which in this case is Shakespeare's plays. The model captures the language patterns, vocabulary, and sentence structures commonly found in Shakespearean text, such as the use of archaic words, poetic expressions, and character names.
 
