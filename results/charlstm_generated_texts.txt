@@ -1,0 +1,128 @@
+Seed: Apple
+Model: CharLSTM
+Temperature: 0.5
+Apple poison made hide apople.
+
+SICINIUS:
+If, little
+Is thine on's windon,
+Whiched me with at going
+And b
+
+Model: CharLSTM
+Temperature: 1.0
+Applease thing to their again.
+
+HASTIS:
+O Marry from the hear
+Which to their, and destrous to know
+more i
+
+Model: CharLSTM
+Temperature: 1.5
+Appleasure deeds
+As that too mabor,
+How threation.
+All:
+So, these requided
+To 'emoted fite of Frience,
+Wh
+
+Seed: University
+Model: CharLSTM
+Temperature: 0.5
+University will say 'thwack of consul: we may be device?
+What for me.
+
+First Murderer:
+I would the duke infer'
+
+Model: CharLSTM
+Temperature: 1.0
+University, but
+stall'd it estife than grate
+Tyu part of blame.
+Let's make
+For damved to serve him pluck'd
+Ond
+
+Model: CharLSTM
+Temperature: 1.5
+University or thine holy exholy match.
+
+BRUTUS:
+Pray you without lapsing summer both in me alone,
+Permitted no
+
+Seed: Seoul
+Model: CharLSTM
+Temperature: 0.5
+Seould no less his made
+As the matter,
+My hasters to before I be a heard
+That to call you hearts friend a
+
+Model: CharLSTM
+Temperature: 1.0
+Seoul take thigh, our consuly further wit what you have of me
+That Edward at tales have them,
+As if thoug
+
+Model: CharLSTM
+Temperature: 1.5
+Seould now were them, and these before.
+
+HASTINGS:
+Here got the patric,
+Or leful dam them!
+
+HASTINGS:
+Bro
+
+Seed: Coffee
+Model: CharLSTM
+Temperature: 0.5
+Coffeed to the Tower? and comes the indeed,
+Cound on me; only he'll heart and sword,
+The belove to heart-m
+
+Model: CharLSTM
+Temperature: 1.0
+Coffeed draw thy play their
+on-foods is my hearts birth you would fair before I saw him die,
+Living he had
+
+Model: CharLSTM
+Temperature: 1.5
+Coffeed to send theirs. Please to wailier,
+Report: but he 'twas done?
+
+COMINIUS:
+On further:
+Let them spea
+
+Seed: Computer
+Model: CharLSTM
+Temperature: 0.5
+Computer sorror' of all heart.
+
+PRINCE EDWARD:
+With than war, of thy children is this:--he do deserve
+To be 
+
+Model: CharLSTM
+Temperature: 1.0
+Computer is out.
+
+CORIOLANUS:
+Marcius is retent cupbrit
+Yet frame the other, but if she frank'd; and entreat
+
+Model: CharLSTM
+Temperature: 1.5
+Computer is his
+feel nay watery hand: is done
+Than on my joyly we? 'tle, when
+For throng: and
+Belly wretch, 
+
