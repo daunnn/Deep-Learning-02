@@ -230,7 +230,7 @@ Upon examining the generated text samples from the CharLSTM model (Best Model: E
 
 - Stylistic Consistency: The generated text exhibits stylistic consistency with the training data, which in this case is Shakespeare's plays. The model captures the language patterns, vocabulary, and sentence structures commonly found in Shakespearean text, such as the use of archaic words, poetic expressions, and character names.
 
-Coherence and Relevance: The generated text maintains a good level of coherence and relevance to the seed character, even at higher temperature values. 
+- Coherence and Relevance: The generated text maintains a good level of coherence and relevance to the seed character, even at higher temperature values. 
 
 - Temperature Impact: The temperature value has a significant impact on the diversity and creativity of the generated text. At lower temperatures (e.g., 0.5), the model generates text that closely resembles the training data, with more predictable and conservative outputs. As the temperature increases (e.g., 1.0, 1.5), the generated text becomes more diverse, introducing novel word combinations, phrases, and ideas that deviate from the original text while still maintaining coherence.
 
