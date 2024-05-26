@@ -44,8 +44,8 @@ In conclusion, the **CharLSTM** outperforms the CharRNN in terms of language gen
 - [CharLSTM Generated Texts](results/charlstm_generated_texts.txt)
 
 ```
-**Seed Character: "Apple"
-Temperature: 0.5**
+*Seed Character: "Apple"
+Temperature: 0.5*
 
 
 Apple and thus fear
