@@ -11,8 +11,9 @@ This repository contains neural network for character-level language modeling.
 
 The performance is evaluated based on the loss values obtained on the validation dataset over the course of 20 training epochs.
 
-Best CharRNN Model: Epoch 3, Validation Loss: 1.2270878601699393
-Best CharLSTM Model: Epoch 19, Validation Loss: 0.6159207755533248
+Best CharRNN Model: Epoch 3, Validation Loss: 1.227
+
+Best CharLSTM Model: Epoch 19, Validation Loss: 0.616
 
 ### Analysis
 
