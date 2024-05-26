@@ -1,0 +1,140 @@
+Seed: Apple
+Model: CharRNN
+Temperature: 0.5
+Appleaded all of the consul, show
+From the command
+A plains of the would for a poils I tell might have put it to bear
+The rooth us to bear the senators, he
+
+Model: CharRNN
+Temperature: 1.0
+Applees adile as my army blood have
+Standar,--
+
+QUEEN ELIZABETH:
+Their,
+Resuing me
+Wide,
+'The royal make your ludge a
+mock'd and told me they very hear
+The
+
+Model: CharRNN
+Temperature: 1.5
+Appleabues and free
+Of all Clarend curse; set do; deat the
+a poor or traitise here ought and kister'd-something. Why unfrightilusly, in him;
+If
+Hooth conce
+
+Seed: University
+Model: CharRNN
+Temperature: 0.5
+University. See, my lord.
+
+PRINCE EDWARD IV:
+Therefore parts
+To be revengeful to be so neither the war, but stand upon the other; and the man I am grace, and th
+
+Model: CharRNN
+Temperature: 1.0
+University:
+We is nome, to be both,
+A happy day,
+I' the utteret thrust
+May send
+Well my sprianment all good Lord!
+
+KING RICHARD III: I plain as before.
+
+PRINCE 
+
+Model: CharRNN
+Temperature: 1.5
+University. Saw you'loving.
+Kive Goy my
+inces i' thee, wife,
+He'er to MarcV:
+O war still me. Ty sire
+Than you, do make
+to prank up earsh upose thy strength: if 
+
+Seed: Seoul
+Model: CharRNN
+Temperature: 0.5
+Seould not spition,
+Your in the petite of my breated the true of guilty,
+When and spend angrys to be a since in the more as been all the life,
+So farewell,
+
+Model: CharRNN
+Temperature: 1.0
+Seoul, and your his swoon time, cedies, in him
+Where heal, 'Dou
+Of Jubjects in Rome,
+Love they she Hastings to finger cram-killed well, madam, even their;
+
+
+Model: CharRNN
+Temperature: 1.5
+Seould iqusty;
+Mudgule at Paul, I will, am ginth. God death as he not
+With stemKnd;
+AEdipes toget who hang yreed? asitoth honours how we, This in high,-
+Me
+
+Seed: Coffee
+Model: CharRNN
+Temperature: 0.5
+Coffeed to do not our possester so seem to your grace.
+
+BRUTUS:
+And the people's a stranged:
+The sent for the fire to the sent for the show they shall be pr
+
+Model: CharRNN
+Temperature: 1.0
+Coffeed,
+Lonk Tarquiss appear perfored to sent himself.
+
+Volscian-like a man and my sin self stand that prove a grave to Buckinghy and diseaslain or our kin
+
+Model: CharRNN
+Temperature: 1.5
+Coffeed.
+
+Third Waless young,
+er to thy own despers namest, and play'd
+In, I doat?
+Beam, in ranford.
+Why what?- and again.
+These upon, the eat.
+
+CORIOLANUS:
+
+Seed: Computer
+Model: CharRNN
+Temperature: 0.5
+Computer him with noble strong and designs
+To being power the people,
+And that our heart with him.
+
+Second to hear me to the command to see him pluck'd the pe
+
+Model: CharRNN
+Temperature: 1.0
+Computer! is doubt.
+
+GLOUCESTER:
+Uncle, to banish'd, stays, and let me but a scoulds heavy deeds.
+
+First Will so argues in heaven,
+As God adversaring boyse fo
+
+Model: CharRNN
+Temperature: 1.5
+Computers; can better did dreanment all thousand the king.
+VFarewedious quol! you know ile tuns child
+That God avial: and shwell for blood malician:
+Did ripen
+
