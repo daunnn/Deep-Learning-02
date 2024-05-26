@@ -120,6 +120,7 @@ Cut it soject
 -------
 
 **Seed Character: "Seoul"**
+
 **Temperature: 0.5**
 
 ```
