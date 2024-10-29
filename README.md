@@ -1,4 +1,4 @@
-# Deep-Learning_HW3
+# Deep-Learning-02: Language modeling
 
 This repository contains a neural network for character-level language modeling.
 
